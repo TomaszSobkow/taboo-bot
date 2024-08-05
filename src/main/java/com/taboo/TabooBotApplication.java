@@ -7,6 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TabooBotApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TabooBotApplication.class);
+        SpringApplication.run(TabooBotApplication.class,args);
     }
 }
